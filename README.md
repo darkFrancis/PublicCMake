@@ -6,5 +6,5 @@
 # Dependencies 
 Add Conan remote for dependencies :
 ```bash
-conan remote add <remote-name> https://darkfrancis.jfrog.io/artifactory/api/conan/public-conan
+conan remote add <remote-name> https://darkfrancisdod.jfrog.io/artifactory/api/conan/public-conan
 ```
